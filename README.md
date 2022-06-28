@@ -1,2 +1,2 @@
 # InterviewPrep
-Materials to cover for productive interview preparations
+Materials to cover productive interview preparations
